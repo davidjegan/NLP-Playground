@@ -1,2 +1,2 @@
-# Named-Entity-Extractor
-Named-Entity-Extractor Flask App!
+# NLP-Playground
+Snippets of NLP techniques I have played upon!
